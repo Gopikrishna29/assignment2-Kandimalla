@@ -23,3 +23,16 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
     1. Staying at Baga/Calangute
     2. Staying at Arambol/Ashwem (extreme North Goa).
     3. Staying at South Goa.
+
+### Must-carry things on a trip to Goa.
+
+* Mirrored sunglasses.
+    * Protects eyes from harh UV rays in beach.
+* Rubber footwear.
+    * Comfortable to walk on sandy beaches.
+* Dress.
+    * Wear them for evening dinner and beach parties.
+* Umbrella
+    * Just in case it rains or if you need some shelter from the sun.
+* Sarong / Multi drape coverups.
+    * Makes your bag light
