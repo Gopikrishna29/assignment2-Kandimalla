@@ -36,3 +36,6 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
     * Just in case it rains or if you need some shelter from the sun.
 * Sarong / Multi drape coverups.
     * Makes your bag light
+
+> Link to AboutMe: <br>
+[AboutMe Link](https://github.com/Gopikrishna29/assignment2-Kandimalla/blob/main/AboutMe.md)
