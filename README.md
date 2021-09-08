@@ -40,4 +40,15 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
  Link to AboutMe: <br>
 [AboutMe](https://github.com/Gopikrishna29/assignment2-Kandimalla/blob/main/AboutMe.md)
 
+---
+
+## Food Meanu
+
+| Food | Place | Cost |
+| ---| ---| ---: |
+| Crispy Chicken Sandwich | McDonald's | $5.16 |
+| Big Mac Meal | McDonald's | $10.42 |
+| Classic Chicken Sandwich Box | KFC | $11 |
+| Famous Bowl | KFC | $5.99 |
+
 
