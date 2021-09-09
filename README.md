@@ -42,7 +42,7 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
 
 ---
 
-## Food Meanu
+## Food Menu
 
 | Food | Place | Cost |
 | ---| ---| ---: |
@@ -51,4 +51,12 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
 | Classic Chicken Sandwich Box | KFC | $11 |
 | Famous Bowl | KFC | $5.99 |
 
+---
+## Pithy Quotes
 
+> “If I had a flower for every time I thought of you, I could walk in my garden forever.”<br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; – *Saivivek Reddy*
+
+> “I look at you and see the rest of my life in front of my eyes.” <br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; – *Jawahar Reddy*
+ 
