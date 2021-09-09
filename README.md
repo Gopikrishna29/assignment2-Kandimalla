@@ -62,6 +62,8 @@ Goa is popularly known as the Pearl of the orient and tourist paradise.**Apart f
 
  ---
 
+## Code Fencing
+
  > Consider two sets A and B of points on a plane. Minkowski sum A+B is defined as a+b|a∈A,b∈B. Here we will consider the case when A and B consist of convex polygons P and Q with their interiors. Throughout this article we will identify polygons with ordered sequences of their vertices, so that notation like |P| or Pi makes sense. It turns out that the sum of convex polygons P and Q is a convex polygon with at most |P|+|Q| vertices.
 
  Here is the link: <https://cp-algorithms.com/geometry/minkowski.html>
